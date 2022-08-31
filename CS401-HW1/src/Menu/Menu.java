@@ -10,7 +10,7 @@ public class Menu {
 
     public int displayMainMenu(){
       System.out.println("\nPlants, v0.1");
-      System.out.println("=============")
+      System.out.println("=============");
 
       do{
           Scanner stdin = new Scanner(System.in);
